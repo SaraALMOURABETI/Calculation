@@ -1,3 +1,5 @@
+This Django view function, named calculate_sum, is designed to perform a simple summation operation on two numbers (num1 and num2) and save the result to both a local MongoDB database (using Django models) and a Firebase database.
+
 1.Create a new project in Firebase.
 
 2.Navigate to Project Overview > Project settings > Service Account.
